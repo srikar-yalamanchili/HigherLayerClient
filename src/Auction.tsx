@@ -61,7 +61,7 @@ const Auction : React.FC<Props> = (props)  => {
     let [biddingItemId, setBiddingItemId] = useState("");
     let [biddingItemPrice, setBiddingItemPrice] = useState(0);
 
-    const url = "http://higherlayerproject-env.eba-8i2qjbtg.us-east-1.elasticbeanstalk.com"
+    const url = "https://higherlayerproject-env.eba-8i2qjbtg.us-east-1.elasticbeanstalk.com"
     // const url = "http://localhost:5000"
 
 
