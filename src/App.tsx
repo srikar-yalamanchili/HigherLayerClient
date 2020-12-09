@@ -9,7 +9,7 @@ import {
 } from "react-router-dom";
 
 // const socket = io("http://localhost:5000");
-const socket = io("https://higherlayerproject-env.eba-8i2qjbtg.us-east-1.elasticbeanstalk.com")
+const socket = io("http://higherlayerproject-env.eba-8i2qjbtg.us-east-1.elasticbeanstalk.com")
 
 
 function App() {
