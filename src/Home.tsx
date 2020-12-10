@@ -10,7 +10,7 @@ import swal from "sweetalert";
 
 function Home() {
 
-    const url = "http://higherlayerproject-env.eba-8i2qjbtg.us-east-1.elasticbeanstalk.com"
+    const url = "https://higherlayerproject-env.eba-8i2qjbtg.us-east-1.elasticbeanstalk.com"
     // const url = "http://localhost:5000"
 
     const history = useHistory();
